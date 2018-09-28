@@ -6,6 +6,9 @@ Init Date: 28 September, 2018
 Latest Edit: 28 September, 2018
 Edited by: David Gurevich
 
+Finally worked: 28, September, 2018
+Time: 9:5
+
 {Documentation goes here}
 """
 
@@ -33,3 +36,5 @@ class Card(object):
 
     def set_row(self):
         self._row = row
+
+    
